@@ -1,0 +1,9 @@
+{
+  "name": "ngHyderabad",
+  "image": "./assets/textures/ngHyderabad/ngHyderabad.jpg",
+  "sizeX": "1",
+  "sizeY": "1",
+  "shininess": "5",
+  "specular": "#222222",
+  "color": "#ffffff"
+}

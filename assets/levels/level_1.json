@@ -1,0 +1,470 @@
+{
+  "0": {
+    "0": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    },
+    "1": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    },
+    "2": {
+      "walls": {
+        "front": null,
+        "back": "whiteDryWall",
+        "left": "monarch",
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "3": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": "whiteDryWall",
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "4": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    }
+  },
+  "1": {
+    "0": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    },
+    "1": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": "whiteDryWall",
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "2": {
+      "walls": {
+        "front": "whiteDryWall",
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "3": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    },
+    "4": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    }
+  },
+  "2": {
+    "0": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    },
+    "1": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    },
+    "2": {
+      "walls": {
+        "front": null,
+        "back": "whiteDryWall",
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "3": {
+      "walls": {
+        "front": "whiteDryWall",
+        "back": null,
+        "left": "whiteDryWall",
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "4": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    }
+  },
+  "3": {
+    "0": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    },
+    "1": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    },
+    "2": {
+      "walls": {
+        "front": null,
+        "back": "whiteDryWall",
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "3": {
+      "walls": {
+        "front": "whiteDryWall",
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "4": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    }
+  },
+  "4": {
+    "0": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    },
+    "1": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": "whiteDryWall",
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "2": {
+      "walls": {
+        "front": "whiteDryWall",
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "3": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    },
+    "4": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    }
+  },
+  "5": {
+    "0": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    },
+    "1": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    },
+    "2": {
+      "walls": {
+        "front": null,
+        "back": "whiteDryWall",
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "3": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": "whiteDryWall",
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "4": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null
+      }
+    }
+  },
+  "6": {
+    "0": {
+      "walls": {
+        "front": null,
+        "back": "blueDryWall",
+        "left": "whiteDryWall",
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "1": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": "drupalSiteSupport",
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "2": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "3": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": "whiteDryWall",
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "4": {
+      "walls": {
+        "front": "whiteDryWall",
+        "back": null,
+        "left": "whiteDryWall",
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    }
+  },
+  "7": {
+    "0": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "1": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "2": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "3": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "4": {
+      "walls": {
+        "front": "monarch",
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    }
+  },
+  "8": {
+    "0": {
+      "walls": {
+        "front": null,
+        "back": "blueDryWall",
+        "left": null,
+        "right": "blueDryWall",
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "1": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "2": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "3": {
+      "walls": {
+        "front": null,
+        "back": null,
+        "left": null,
+        "right": null,
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    },
+    "4": {
+      "walls": {
+        "front": "whiteDryWall",
+        "back": null,
+        "left": null,
+        "right": "blueDryWall",
+        "top": "ceiling",
+        "bottom": "carpet"
+      }
+    }
+  }
+}
